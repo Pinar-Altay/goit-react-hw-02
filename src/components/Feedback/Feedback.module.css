@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 1.2rem;
+    margin: 5px 0;
+    font-family: open-sans, sans-serif;
+    font-style: italic;
+}
+
